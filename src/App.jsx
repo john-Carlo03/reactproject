@@ -75,11 +75,11 @@ function AboutMe() {
 function Skills() {
   return (
     <section id="skills">
-      <h2>.</h2>
+      <h2>List ng mga pogi:</h2>
       <ul>
-        <li>.</li>
-        <li>R.</li>
-        <li>.</li>
+        <li>John</li>
+        <li>Carlo</li>
+        <li>Balan</li>
       </ul>
     </section>
   );
@@ -88,7 +88,7 @@ function Skills() {
 function Projects() {
   return (
     <section id="projects">
-      <h2>hehe</h2>
+      <h2>goodluck to me</h2>
       <div className="project">
   
       </div>
