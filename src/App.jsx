@@ -25,8 +25,8 @@ function Header() {
       <nav>
         <ul>
           <li><a href="#about-me">About Me</a></li>
-          <li><a href="#skills">Skills</a></li>
-          <li><a href="#projects">Projects</a></li>
+          <li><a href="#skills">abangan</a></li>
+          <li><a href="#projects">pending</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
@@ -65,7 +65,7 @@ function AboutMe() {
     
     <section id="about-me">
       <h2>About Me</h2>
-      <p> I'm a web designer who loves creating simple and user-friendly designs. I focus on making websites look great and work well on any device. I'm always learning new things to improve my skills every day.</p>
+      <p> I'm John Carlo M. Balan, regular student ;)))) UI designer minsan, madalas pogi. </p>
     </section>
 
   );
@@ -75,11 +75,11 @@ function AboutMe() {
 function Skills() {
   return (
     <section id="skills">
-      <h2>Skills</h2>
+      <h2>.</h2>
       <ul>
-        <li>Html & Css</li>
-        <li>React</li>
-        <li>Node.js</li>
+        <li>.</li>
+        <li>R.</li>
+        <li>.</li>
       </ul>
     </section>
   );
@@ -88,7 +88,7 @@ function Skills() {
 function Projects() {
   return (
     <section id="projects">
-      <h2>Projects</h2>
+      <h2>hehe</h2>
       <div className="project">
   
       </div>
@@ -115,7 +115,7 @@ function Contact() {
 function Footer() {
   return (
     <footer>
-      <p>&copy; 2025 John Carlo Balan. All rights reserved.</p>
+      <p>&copy; John Carlo Balan.</p>
     </footer>
   );
 }
